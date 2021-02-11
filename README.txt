@@ -5,11 +5,7 @@ All rights to their respective owners.
     i.  mysqljdbc Driver,
     ii. JavaFX Libraries
 
-2. *This may or may not work* 
-You can still run the project by opening the "run.bat" file (you will still need java installed on your system). It will open the JavaFX_MiniProject.jar file present in the following directory(relative path):
-    /out/artifacts/JavaFX_MiniProject_jar/JavaFX_MiniProject.jar
-    We have connected it to a online SQL server that we used for testing purposes. 
-    (The name of the database is 'test' and the name of the table is countries by default)
+2.  (The name of the database is 'test' and the name of the table is countries by default)
 
     You can create your local database with the following schema:
     Enter all data yourself following this schema:
