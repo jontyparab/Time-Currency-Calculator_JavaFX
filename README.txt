@@ -18,7 +18,7 @@ You are free to pull the project and modify it in any way you wish to fine tune 
      `Currency` varchar(60) NOT NULL,
      PRIMARY KEY (`ID`)
     ) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=latin1
-    ![](resources/DatabaseModel.png)
+![](resources/DatabaseModel.png)
 
 3. The flags displayed in the application should be fetched from the database and not from the img folder.
 
