@@ -22,8 +22,8 @@ You are free to pull the project and modify it in any way you wish to fine tune 
     ![Schema](./resources/DatabaseModel.png)
 
 3. The flags displayed in the application should be fetched from the database and not from the img folder.
-	![Schema](./resources/Country.png)
+	![Country](https://github.com/jontyparab/Time-Currency-Calculator_JavaFX/blob/master/resources/Country.png)
 
 4. The currency exchange values are stored in the Currency.java File. Updated values for the currency exchange rates can be made there.
-	![Schema](./resources/Currency.png)
-	![Schema](./resources/Time.png)
+	![Currency](./resources/Currency.png)
+	![Time](./resources/Time.png)
