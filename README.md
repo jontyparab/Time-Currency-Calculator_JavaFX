@@ -1,4 +1,4 @@
-ALl the images for this project are used from icons8.com
+ALl the images for this project are used from [icons8.com](https://icons8.com)
 All rights to their respective owners.
 
 You are free to pull the project and modify it in any way you wish to fine tune it :)
