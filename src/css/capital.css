@@ -1,0 +1,46 @@
+.root {
+    -fx-font-size: 14px;
+    -fx-font-family: sans-serif;
+    -fx-background-color: #00b4d8;
+}
+
+.button{
+    -fx-text-fill: #ffffff;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 10, 0.0 , 0 , 3 );
+    -fx-outer-border: white;
+      -fx-body-color: linear-gradient(to bottom, #023e8a,#023e8a);
+      -fx-background-color:
+           -fx-outer-border,
+           -fx-body-color;
+      -fx-background-insets: 0, 2;
+      -fx-background-radius: 12px, 12px;
+}
+.button:pressed {
+    -fx-effect: none;
+}
+
+#lblTime1, #lblTime2{
+    -fx-padding: 18px;
+    -fx-font-family: sans-serif;
+    -fx-font-size: 25px;
+}
+
+#lblCurrency1, #lblCurrency2{
+    -fx-font-size: 15px;
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-weight: bold;
+
+}
+
+#lblConverted{
+    -fx-font-size: 15px;
+    -fx-font-family: "Courier New";
+    -fx-font-weight: bold;
+}
+
+#lblCapital1, #lblCapital2{
+    -fx-font-size: 20px;
+    -fx-font-family: "Courier New";
+    -fx-font-weight: bold;
+}
+
