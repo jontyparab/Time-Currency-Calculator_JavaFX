@@ -1,6 +1,7 @@
 ALl the images for this project are used from icons8.com
 All rights to their respective owners.
 
+You are free to pull the project and modify it in any way you wish to fine tune it :)
 1. To run the project you will require the following Libraries:
     i.  mysqljdbc Driver,
     ii. JavaFX Libraries
