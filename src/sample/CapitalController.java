@@ -33,8 +33,6 @@ public class CapitalController implements Initializable {
     public Menu menuTime;
 
 
-
-
     static ObservableList<String> list;
     public AnchorPane capitalPane;
 

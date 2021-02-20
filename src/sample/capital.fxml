@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Hyperlink?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.Menu?>
 <?import javafx.scene.control.MenuBar?>
 <?import javafx.scene.control.MenuItem?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Text?>
 
 <AnchorPane fx:id="capitalPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="474.0" prefWidth="767.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.CapitalController">
    <children>
@@ -26,5 +28,7 @@
       </MenuBar>
       <Label fx:id="lblCapital1" alignment="CENTER" contentDisplay="CENTER" layoutX="74.0" layoutY="333.0" prefHeight="96.0" prefWidth="163.0" text="Capital" textAlignment="CENTER" wrapText="true" />
       <Label fx:id="lblCapital2" alignment="CENTER" contentDisplay="CENTER" layoutX="503.0" layoutY="333.0" prefHeight="96.0" prefWidth="163.0" text="Capital" textAlignment="CENTER" wrapText="true" />
+      <Hyperlink layoutX="74.0" layoutY="435.0" prefHeight="23.0" prefWidth="122.0" text="icons8.com" textFill="#111010" underline="true" />
+      <Text layoutX="8.0" layoutY="452.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Icons from " wrappingWidth="92.0" />
    </children>
 </AnchorPane>
