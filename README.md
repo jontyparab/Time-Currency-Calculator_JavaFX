@@ -19,10 +19,10 @@ You are free to pull the project and modify it in any way you wish to fine tune 
      `Currency` varchar(60) NOT NULL,
      PRIMARY KEY (`ID`)
     ) ENGINE=InnoDB AUTO_INCREMENT=11 DEFAULT CHARSET=latin1
-    ![](resources/DatabaseModel.png)
+    ![](images/DatabaseModel.png)
 
 3. The flags displayed in the application should be fetched from the database and not from the img folder.
-    ![](resources/Country.png)
+    ![](images/Country.png)
 4. The currency exchange values are stored in the Currency.java File. Updated values for the currency exchange rates can be made there.
-    ![](resources/Currency.png)
-    ![](resources/Time.png)
+    ![](images/Currency.png)
+    ![](images/Time.png)
